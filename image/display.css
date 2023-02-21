@@ -1,0 +1,18 @@
+#div1{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    margin-right: -4px;
+    visibility: hidden;
+}
+#div2{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+span{
+    display:inline-block;
+}
+div{
+    display: inline-block;
+}
